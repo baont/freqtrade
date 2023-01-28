@@ -1,0 +1,2 @@
+ freqtrade backtesting --strategy Supertrend
+ freqtrade download-data --exchange binance --pairs BTC/USDT
